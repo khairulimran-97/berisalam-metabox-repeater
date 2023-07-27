@@ -1,4 +1,4 @@
-# Code Snippet - Recurring Donation Meta Box
+# Code Snippet - Recurring Berisalam Repeater Meta Box
 
 This code snippet adds a meta box to the admin area for a custom post type called "product". The meta box allows users to add recurring donation options to the product.
 
